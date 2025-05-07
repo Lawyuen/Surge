@@ -1,0 +1,32 @@
+{
+  "name": "Lawyuen OTTicons",
+  "description": "@Lawyuen",
+  "icons": [
+    {"name": "AfreecaTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/AfreecaTV.png"},
+    {"name": "Bigo", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Bigo.png"},
+    {"name": "CaffeineTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/CaffeineTV.png"},
+    {"name": "CHZZK", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/CHZZK.png"},
+    {"name": "DLive", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/DLive.png"},
+    {"name": "FlexTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/FlexTV.png"},
+    {"name": "Kick", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Kick.png"},
+    {"name": "Likee", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Likee.png"},
+    {"name": "Loco", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Loco.png"},
+    {"name": "Loco1", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Loco1.png"},
+    {"name": "Loco2", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Loco2.png"},
+    {"name": "NaverTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/NaverTV.png"},
+    {"name": "NiconicoLiveBlack", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/NiconicoLiveBlack.png"},
+    {"name": "NiconicoLiveGrey", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/NiconicoLiveGrey.png"},
+    {"name": "NimoTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/NimoTV.png"},
+    {"name": "NimoTV1", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/NimoTV1.png"},
+    {"name": "OPENRECTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/OPENRECTV.png"},
+    {"name": "PandaTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/PandaTV.png"},
+    {"name": "PandaTV1", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/PandaTV1.png"},
+    {"name": "PopcornTV", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/PopcornTV.png"},
+    {"name": "Rooter", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Rooter.png"},
+    {"name": "Rooter1", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Rooter1.png"},
+    {"name": "Rumble", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Rumble.png"},
+    {"name": "SOOP", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/SOOP.png"},
+    {"name": "Trovo", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/Trovo.png"},
+    {"name": "YouNow", "url": "https://raw.githubusercontent.com/Lawyuen/Surge/main/Proxyicons/OTT-icons/YouNow.png"}
+  ]
+}
